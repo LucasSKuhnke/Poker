@@ -1,6 +1,5 @@
 from deck import Deck, Card
 
-
 class Hand:
     def __init__(self, deck):
         cards = []
